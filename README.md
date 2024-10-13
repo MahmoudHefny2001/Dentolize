@@ -52,19 +52,19 @@ The main objectives of implementing the Dental Clinic Management System are:
 
 - **Staff Profiles**: Create profiles for dentists, hygienists, and administrative staff with roles and permissions.
 - **Payroll Management**: Manage staff working hours, overtime, and integrate payroll for seamless compensation.
-- [comment]: **Performance Tracking**: Track performance metrics for staff and dentists, including patient feedback and KPIs.
+- <!--- **Performance Tracking**: Track performance metrics for staff and dentists, including patient feedback and KPIs. --->
 
 ### 3.6 Communication Module
 
 - **SMS **: Send customized appointment reminders, follow-ups, or promotional offers to patients via SMS.
 - **Patient Feedback Surveys**: Enable the clinic to collect feedback from patients after their visits to assess service quality.
-- [comment]:**Patient Portal**: Provide patients with a portal where they can view their appointment history, bills, and treatment plans.
+- <!--- **Patient Portal**: Provide patients with a portal where they can view their appointment history, bills, and treatment plans. --->
 
 ### 3.7 Reporting and Analytics
 
 - **Custom Reports**: Generate custom reports based on various parameters such as patient visits, revenue, or treatment outcomes.
 - **Real-Time Dashboard**: An interactive dashboard offering real-time insights into clinic operations and performance metrics.
-- [comment]: **Patient Demographics**: Analyze patient demographics to better understand the clinic’s patient base and improve marketing efforts.
+- <!-- **Patient Demographics**: Analyze patient demographics to better understand the clinic’s patient base and improve marketing efforts. --->
 
 ## 4. Technology Stack
 
@@ -98,7 +98,6 @@ Given an estimated volume of 200 patients per week, the cost for developing and 
 | Mobile App Development         | $1,000               |
 | Hosting & Cloud Services       | $2,000/year          |
 | Maintenance & Support          | $x,xxx/year          |
-| Licensing (if applicable)      | $500               |
 | Third-Party Integrations (if applicable)     | $x,xxx  |
 
 **Total Estimated Cost**: $xx,xxx (One-time development) + $x,xxx/year (Hosting, maintenance, and support)
