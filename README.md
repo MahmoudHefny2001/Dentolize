@@ -72,8 +72,8 @@ The Dental Clinic Management System will be built using the following technologi
 
 - **Backend**: Django (Python), PostgreSQL for database management
 - **Frontend**: React.js, HTML5, CSS3
-- **Mobile Application**: React Native (for cross-platform mobile apps)
-- **Hosting**: Cloud hosting on AWS or Google Cloud Platform
+- **Mobile Application**: Flutter
+- **Hosting**: Cloud hosting on AWS
 - **Security**: SSL encryption, OAuth2 for secure patient data access, HIPAA compliance for data storage and handling
 
 ## 5. Project Timeline
