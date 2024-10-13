@@ -98,8 +98,8 @@ Given an estimated volume of 200 patients per week, the cost for developing and 
 | Mobile App Development         | $1,000               |
 | Hosting & Cloud Services       | $2,000/year          |
 | Maintenance & Support          | $5,000/year          |
-| Licensing (if applicable)      | $1,500               |
-| Third-Party Integrations       | $1,000               |
+| Licensing (if applicable)      | $500               |
+| Third-Party Integrations (if applicable)     | $x,xxx  |
 
 **Total Estimated Cost**: $xx,xxx (One-time development) + $x,xxx/year (Hosting, maintenance, and support)
 
