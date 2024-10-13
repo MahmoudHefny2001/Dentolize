@@ -2,9 +2,6 @@
 
 
 
-# Create a more detailed content for the .md file
-
-detailed_md_content = """
 # Dental Clinic Management System Proposal
 
 ## 1. Executive Summary
@@ -111,10 +108,4 @@ Given an estimated volume of 200 patients per week, the cost for developing and 
 The proposed Dental Clinic Management System (DCMS) offers a holistic solution for optimizing clinic operations, ensuring improved patient care, and reducing manual tasks. This system will enhance productivity, minimize errors, and provide the scalability needed to accommodate the clinic’s growth. Our team is committed to delivering a high-quality solution tailored to the specific needs of your dental practice.
 """
 
-# Write the detailed content to a .md file
-detailed_md_file_path = "/mnt/data/Detailed_Dental_Clinic_Management_Proposal.md"
-with open(detailed_md_file_path, "w") as file:
-    file.write(detailed_md_content)
-
-detailed_md_file_path
 
