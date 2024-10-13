@@ -106,6 +106,6 @@ Given an estimated volume of 200 patients per week, the cost for developing and 
 ## 7. Conclusion
 
 The proposed Dental Clinic Management System (DCMS) offers a holistic solution for optimizing clinic operations, ensuring improved patient care, and reducing manual tasks. This system will enhance productivity, minimize errors, and provide the scalability needed to accommodate the clinic’s growth. Our team is committed to delivering a high-quality solution tailored to the specific needs of your dental practice.
-"""
+
 
 
