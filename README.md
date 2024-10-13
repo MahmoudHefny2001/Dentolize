@@ -93,15 +93,15 @@ Given an estimated volume of 200 patients per week, the cost for developing and 
 
 | Component                     | Estimated Cost (USD) |
 |-------------------------------|----------------------|
-| System Development             | $20,000              |
-| UI/UX Design                   | $3,000               |
-| Mobile App Development         | $8,000               |
+| System Development             | $1,500              |
+| UI/UX Design                   | $300               |
+| Mobile App Development         | $1,000               |
 | Hosting & Cloud Services       | $2,000/year          |
 | Maintenance & Support          | $5,000/year          |
 | Licensing (if applicable)      | $1,500               |
 | Third-Party Integrations       | $1,000               |
 
-**Total Estimated Cost**: $40,500 (One-time development) + $7,000/year (Hosting, maintenance, and support)
+**Total Estimated Cost**: $xx,xxx (One-time development) + $x,xxx/year (Hosting, maintenance, and support)
 
 ## 7. Conclusion
 
