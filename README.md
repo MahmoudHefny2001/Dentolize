@@ -58,13 +58,13 @@ The main objectives of implementing the Dental Clinic Management System are:
 
 - **SMS **: Send customized appointment reminders, follow-ups, or promotional offers to patients via SMS.
 - **Patient Feedback Surveys**: Enable the clinic to collect feedback from patients after their visits to assess service quality.
-- <!--- **Patient Portal**: Provide patients with a portal where they can view their appointment history, bills, and treatment plans. --->
+<!--- - **Patient Portal**: Provide patients with a portal where they can view their appointment history, bills, and treatment plans. --->
 
 ### 3.7 Reporting and Analytics
 
 - **Custom Reports**: Generate custom reports based on various parameters such as patient visits, revenue, or treatment outcomes.
 - **Real-Time Dashboard**: An interactive dashboard offering real-time insights into clinic operations and performance metrics.
-- <!-- **Patient Demographics**: Analyze patient demographics to better understand the clinic’s patient base and improve marketing efforts. --->
+<!-- - **Patient Demographics**: Analyze patient demographics to better understand the clinic’s patient base and improve marketing efforts. --->
 
 ## 4. Technology Stack
 
