@@ -22,7 +22,7 @@ The main objectives of implementing the Dental Clinic Management System are:
 
 ### 3.1 Appointment Management
 
-- **Online Appointment Scheduling**: Patients will have the ability to book appointments via a user-friendly web interface or mobile application.
+<!-- - **Online Appointment Scheduling**: Patients will have the ability to book appointments via a user-friendly web interface or mobile application. --->
 - **Calendar View for Staff**: Clinic staff and dentists can easily view and manage schedules in a dynamic calendar interface.
 - **Automated Notifications**: The system sends SMS or email reminders for upcoming appointments, reducing no-shows and cancellations.
 - **Appointment Rescheduling & Cancellations**: Patients can modify their appointments easily through the system, and staff will be notified in real time.
@@ -39,7 +39,7 @@ The main objectives of implementing the Dental Clinic Management System are:
 
 - **Automated Billing**: Generate bills after each appointment or treatment session, and send them via email or print them out.
 - **Insurance Processing**: The system supports insurance claims processing and automatically calculates co-pays, ensuring a smooth experience for insured patients.
-- **Payment Integration**: Accept payments through integrated payment gateways (credit cards, mobile wallets, etc.).
+<!-- - **Payment Integration**: Accept payments through integrated payment gateways (credit cards, mobile wallets, etc.). -->
 - **Finance Reports**: Generate detailed reports on income, outstanding bills, and payment statuses for better financial management.
 
 ### 3.4 Inventory Management
@@ -51,7 +51,7 @@ The main objectives of implementing the Dental Clinic Management System are:
 ### 3.5 Doctor and Staff Management
 
 - **Staff Profiles**: Create profiles for dentists, hygienists, and administrative staff with roles and permissions.
-- **Payroll Management**: Manage staff working hours, overtime, and integrate payroll for seamless compensation.
+- **Payroll Management**: Manage staff working hours, overtime, <!-- and integrate payroll for seamless compensation. -->
 - <!--- **Performance Tracking**: Track performance metrics for staff and dentists, including patient feedback and KPIs. --->
 
 ### 3.6 Communication Module
@@ -80,11 +80,11 @@ The Dental Clinic Management System will be built using the following technologi
 
 | Phase                        | Duration            | Details                                                                 |
 |------------------------------|---------------------|-------------------------------------------------------------------------|
-| Requirement Gathering         | 2 Weeks             | Identify clinic needs, map out features and functionality                |
-| Design & Wireframing          | 3 Weeks             | Create UI/UX designs and get client approval                             |
-| Development                   | 12 Weeks            | Backend, frontend, and mobile app development                            |
-| Testing & QA                  | 4 Weeks             | Rigorous testing of all modules                                          |
-| Deployment & Training         | 2 Weeks             | Deploy the system and train clinic staff                                 |
+| Requirement Gathering         | 1 Weeks             | Identify clinic needs, map out features and functionality                |
+| Design & Wireframing          | 2 Weeks             | Create UI/UX designs and get client approval                             |
+| Development                   | 10 Weeks            | Backend, frontend, and mobile app development                            |
+| Testing & QA                  | 2-3 Weeks             | Rigorous testing of all modules                                          |
+| Deployment & Training         | 1 Weeks             | Deploy the system and train clinic staff                                 |
 | Maintenance & Support         | Ongoing (Annual)    | Regular updates, bug fixes, and support                                  |
 
 ## 6. Cost Estimates
