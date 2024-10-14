@@ -52,7 +52,7 @@ The main objectives of implementing the Dental Clinic Management System are:
 
 - **Staff Profiles**: Create profiles for dentists, hygienists, and administrative staff with roles and permissions.
 - **Payroll Management**: Manage staff working hours, overtime, <!-- and integrate payroll for seamless compensation. -->
-- <!--- **Performance Tracking**: Track performance metrics for staff and dentists, including patient feedback and KPIs. --->
+<!--- -  **Performance Tracking**: Track performance metrics for staff and dentists, including patient feedback and KPIs. --->
 
 ### 3.6 Communication Module
 
