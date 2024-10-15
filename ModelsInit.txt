@@ -2,7 +2,7 @@
 - DOCTORS
 - STAFF
 - PATIENTS
-- PATIENT_VISITS
+- Patient Visits
 - Visit billing
 - Cusomter Feedback
 - Surgery
