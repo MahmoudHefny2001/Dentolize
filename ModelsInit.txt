@@ -1,8 +1,8 @@
-ADMINS-
-DOCTORS_
--STAFF_
--PATIENTS
-_PATIENT_VISITS
--visit billing
--Cusomter Feedback
+- ADMINS
+- DOCTORS
+- STAFF
+- PATIENTS
+- PATIENT_VISITS
+- Visit billing
+- Cusomter Feedback
 - Surgery
