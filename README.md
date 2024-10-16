@@ -102,7 +102,7 @@ Given an estimated volume of 200 patients per week, the cost for developing and 
 | Front-End                     | ~ $ xxx              |
 | UI/UX Design                  | ~ $ xxx              |
 | Mobile App Development        | ~ $ xxx              |
-|-------------------------------|----------------------|
+|                               |                      |
 | Total                         | ~ $ xxx              |
 
 **Total Estimated Cost**: $xx,xxx (One-time development) + $x,xxx/year (Hosting, maintenance, and support)
