@@ -91,14 +91,19 @@ The Dental Clinic Management System will be built using the following technologi
 
 Given an estimated volume of 200 patients per week, the cost for developing and deploying the system is as follows:
 
-| Component                     | Estimated Cost (USD) |
+| Component                     | Estimated Cost       |
 |-------------------------------|----------------------|
-| System Development             | ~ $1,000              |
-| UI/UX Design                   | ~ $100               |
-| Mobile App Development         | ~ $ 800               |
-| Hosting & Cloud Services       | $1,000/year          |
-| Maintenance & Support          | $x,xxx/year          |
-| Third-Party Integrations (if applicable)     | $x,xxx  |
+| ADMINS                        | 700                  |
+| STAFF                         | 700                  |
+| PATIENTS                      | 1000                 |
+| Patient Visits                | 700                  |
+| Visit billing                 | 700                  |
+| Surgery                       | 700                  |
+| Front-End                     | ~ $ xxx              |
+| UI/UX Design                  | ~ $ xxx              |
+| Mobile App Development        | ~ $ xxx              |
+|-------------------------------|----------------------|
+| Total                         | ~ $ xxx              |
 
 **Total Estimated Cost**: $xx,xxx (One-time development) + $x,xxx/year (Hosting, maintenance, and support)
 
